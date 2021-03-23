@@ -1,0 +1,8 @@
+$ tail -f ./text.log
+
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2021-03-23 16:29:11 +0000 UTC
+2021-03-23 16:29:13 +0000 UTC
+2021-03-23 16:29:15 +0000 UTC
+2021-03-23 16:29:17 +0000 UTC
+2021-03-23 16:29:19 +0000 UTC
